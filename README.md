@@ -13,4 +13,3 @@
 Nolanmatt-stu/Nolanmatt-stu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img width="400"> <kbd> ![profpic](https://github.com/Nolanmatt-stu/Nolanmatt-stu/assets/133678588/872f848c-290a-4546-b51d-1e99c2cce38c)
